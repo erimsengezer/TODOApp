@@ -1,5 +1,3 @@
-# GetirTodo
-
 ## Project:
 
 We would like you to build a simple "to-do" app which consists of tasks in list and task detail in detail screen.
